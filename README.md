@@ -23,7 +23,7 @@ src/
 ├── gateway/
 │   ├── SecureResponse.java     # Pembungkus hasil respons
 │   └── IntegrationGateway.java # Inti sistem gateway
-└── AppTun.java                 # Simulasi utama
+└── AppRun.java                 # Simulasi utama
 ```
 
 ---
